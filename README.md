@@ -97,3 +97,34 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## (S3) Temas puntuales de la sección
+
+Estamos entrando a nuestra primera sección sobre Nest, aquí veremos:
+
+- ¿Qué es Nest?
+- ¿Por qué usarlo?
+- Explicación sobre cada archivo en un proyecto nuevo de Nest
+- Core Nest building blocks
+
+  - Módulos
+  - Controladores (Post, Patch, Get, Delete)
+  - Primeros decoradores
+  - Servicios
+  - Inyección de dependencias
+  - Pipes
+  - Exception Filters
+
+Adicionalmente estaremos creando un Rest Api inicial para ir explicando cada concepto paso a paso.
+
+## (S4) Temas puntuales de la sección
+
+Esta sección terminaremos el POST, PATCH y DELETE de nuestro CRUD inicial, pero de forma puntual veremos:
+
+- DTO (Data Transfer Object)
+- Patch, Post, Delete
+- Validaciones automáticas
+- Class Validator
+- Class Transformer
+- Seguir el principio DRY (Don't repeat yourself)
+- Algunos decoradores del Class Validator útiles
